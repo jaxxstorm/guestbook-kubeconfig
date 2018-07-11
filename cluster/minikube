@@ -1,1 +1,1 @@
-cluster/mysql-deployment.yaml
+cluster/*.yaml
